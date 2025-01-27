@@ -10,6 +10,14 @@ This is the Group 7 Homework 2 repository.
 ## Tutorial Screenshots
 TODO
 
+## Code Example
+The following are instructions on how to run a sample python file in this repository, given a Windows system with python installed.
+
+For windows:
+'''
+> python example_code.py
+'''
+
 ## Task List
 
 - [ ] Task 1: Complete Git Tutorial
