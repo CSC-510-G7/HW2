@@ -1,8 +1,19 @@
 # HW2
+![language: HTML](https://img.shields.io/badge/language-HTML-orange)
+![license: MIT](https://img.shields.io/badge/license-MIT-blue)
+![university: NCSU](https://img.shields.io/badge/university-NCSU-red)
+![class: CSC510](https://img.shields.io/badge/class-CSC_510-red)
 
+## Introduction
 This is the Group 7 Homework 2 repository.
 
-TODO:
-* Complete tutorials
-* Add emails to html page
-* Add badges here
+## Tutorial Screenshots
+TODO
+
+## Task List
+
+- [ ] Task 1: Complete Git Tutorial
+- [ ] Task 2: Add Screenshots to `README.md`
+- [ ] Task 3: Modify `.html` File
+- [ ] Task 4: Merge latest changes
+- [ ] Task 5: Review pull requests
