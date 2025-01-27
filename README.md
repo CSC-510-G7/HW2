@@ -13,10 +13,9 @@ TODO
 ## Code Example
 The following are instructions on how to run a sample python file in this repository, given a Windows system with python installed.
 
-For windows:
-'''
+```
 > python example_code.py
-'''
+```
 
 ## Task List
 
