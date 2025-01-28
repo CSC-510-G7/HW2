@@ -8,7 +8,10 @@
 This is the Group 7 Homework 2 repository.
 
 ## Tutorial Screenshots
-TODO
+![Main Tutorial - cwelchik](https://github.com/user-attachments/assets/d38d17f1-df27-4715-acea-b21eb7ce3f83)
+![Remote Tutorial - Christopher Elchik](https://github.com/user-attachments/assets/5fc14d39-618d-45d6-bac3-d30a044da214)
+
+
 
 ## Code Example
 The following are instructions on how to run a sample python file in this repository, given a Windows system with python installed.
