@@ -8,9 +8,11 @@
 This is the Group 7 Homework 2 repository.
 
 ## Tutorial Screenshots
+![Main Tutorial - kds](https://github.com/Kanchi11/PublicRepo/blob/315f8e0059f01b934ea02337cb328d984a1d9c6b/Screenshot%202025-01-28%20at%205.12.05%20AM.png?raw=true)
+![Remote Tutorial - Kanchana Dhana Sadasivan](https://github.com/Kanchi11/PublicRepo/blob/315f8e0059f01b934ea02337cb328d984a1d9c6b/Screenshot%202025-01-28%20at%205.13.16%20AM.png?raw=true)
+
 ![Main Tutorial - cwelchik](https://github.com/user-attachments/assets/d38d17f1-df27-4715-acea-b21eb7ce3f83)
 ![Remote Tutorial - Christopher Elchik](https://github.com/user-attachments/assets/5fc14d39-618d-45d6-bac3-d30a044da214)
-
 
 ![Main Tutorial - bjtry](https://github.com/user-attachments/assets/798a5eb0-49fe-4e0d-b992-4c40d3e94e0e)
 ![Remote Tutorial - bjtroy](https://github.com/user-attachments/assets/af4433c5-d1c5-4c7b-b5e8-5a62b7efee76)
